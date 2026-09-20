@@ -18,4 +18,4 @@ aur saare comments resolve hone chahiye.
 - Secrets kabhi code me nahi. Environment variables ya secret store use karein.
 - `.gitignore` follow karein, build output commit na karein.
 - PR template ki checklist poori bharein.
-- Test change by developer account
+- Har PR me review comments resolve karna zaroori hai.
